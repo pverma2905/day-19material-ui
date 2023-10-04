@@ -131,7 +131,7 @@ export default function Aside() {
                         </IconButton>
                     </DrawerHeader>
                     <Divider />
-                    <Link href="/home" className='custom-text'>
+                    <Link href="/" className='custom-text'>
 
 
                         <List>
